@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'githubRoadToDevOps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B99A0D60A2847B0AB76C226EDCA24ED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EF09BBA87814FE4B46658CC4FE1BD7F }}
           package: .
